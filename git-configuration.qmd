@@ -13,8 +13,9 @@ editor: visual
 
 ```{r}
 library(usethis)
-use_git_config(user.name = "birrermi", user.email = "birrermi@ethz.ch")
+use_git_config(user.name = "birrermi", user.email = "birrermi@student.ethz.ch")
 ```
+
 l
 
 ## Commit and push your changes
